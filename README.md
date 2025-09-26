@@ -25,4 +25,4 @@ Elde edilen sonuçlar, Transfer Öğrenme yönteminin bu tür görüntü sınıf
 
 ### Proje Dosyası
 
-[Kaggle Not Defteri:](https://www.kaggle.com/code/andaaydoan/derin-renme-bootcamp-projesi-anda-aydo-an)
+[Kaggle Not Defteri](https://www.kaggle.com/code/andaaydoan/derin-renme-bootcamp-projesi-anda-aydo-an)
